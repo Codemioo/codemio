@@ -1,6 +1,6 @@
 ![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQHRZfKutq1Nkw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730057060348?e=1735776000&v=beta&t=7WoH89v9p0G6jTCYyKnqV5iSTs2T6J_OR0F5geSRwQU)
 <h1 align="center">Hi 👋, I'm Rabia</h1>
-<h3 align="center">I am a software developer in Turkey</h3>
+<h3 align="center">I am a computer programmer in Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codemioo&label=Profile%20views&color=0e75b6&style=flat" alt="codemioo" /> </p>
 
